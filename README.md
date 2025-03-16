@@ -80,3 +80,7 @@ This is a simulation of ask.fm site as We all familiar with the ask.fm site ,whe
 ![signup an account](https://user-images.githubusercontent.com/77184432/176610292-cab690b2-99e9-438c-b298-e8fe229192be.png)
 
 </details>
+
+## Technologies used:
+
+- only c++ , its a console app for learning purpose.
