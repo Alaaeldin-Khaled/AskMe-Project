@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1737542020 source:c:\users\jett\documents\c++ projects\askme\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+
